@@ -20,7 +20,21 @@
             <a href="./03_variables.php">03_variables</a>
         </li>
                 <li>
-            <a href="./04_arrays.php">03_variables</a>
+            <a href="./04_arrays.php">04_arrays</a>
+        </li>
+                </li>
+                <li>
+            <a href="./05_condicional.php">05_condicional</a>
+        </li>
+        </li>
+                </li>
+                <li>
+            <a href="./06_dates.php">06_dates</a>
+        </li>
+        </li>
+                </li>
+                <li>
+            <a href="./07_variables_sessio.php">07_sessions</a>
         </li>
     </ul>
 
