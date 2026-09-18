@@ -7,9 +7,9 @@
 </head>
 <body>
     <h1>Form amb GET</h1>
-    <form action="#" method="get">
+    <form action="./08_form_get_controller.php" method="GET">
         <label for="name">Introdueix el teu nom</label>
-        <input type="text" name="name">
+        <input type="text" name="nom">
         <br>
         <input type="submit" value="Envia">
     </form>
