@@ -36,6 +36,23 @@
                 <li>
             <a href="./07_variables_sessio.php">07_sessions</a>
         </li>
+        <li>
+            <a href="08_forms_get.php">08_Formulari amb GET</a>
+        </li>
+        <li>
+            <a href="./09_forms_post.php">09_Formulari amb POST</a>
+        </li>
+        </li>
+        <li>
+            <a href="./10_Expresions_regulars.php">10_Expresions Regulars REGEX</a>
+        </li>
+                <li>
+            <a href="./11_login_example.php">11_Login Exemple</a>
+        </li>
+         </li>
+                <li>
+            <a href="./12_templates/home.php">12_Plantilles</a>
+        </li>
     </ul>
 
 </body>
