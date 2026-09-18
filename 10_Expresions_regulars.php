@@ -9,12 +9,12 @@
 
 <body>
     <h1>Expresions regulars</h1>
-    <form action="#" method="post">
+    <form action="./10_Expresions_regulars_controller.php" method="post">
         <label for="name">Introdueix el nom d'usuari</label>
-        <input type="text" name="name" placeholder="tot en minuscules">
+        <input type="text" name="name" placeholder="tot en minuscules" required>
         <br>
         <label for="password">Introdueix el password</label>
-        <input type="text" name="password" placeholder="ha de tenir numeros, leltres i simbols i un min de 8 caracters">
+        <input type="text" name="contrasenya" placeholder="ha de tenir numeros, leltres i simbols i un min de 8 caracters">
         <br>
         <input type="submit" value="Envia">
     </form>
